@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\bin\Debug\net6.0\POO U3 4 metodos.exe
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\bin\Debug\net6.0\POO U3 4 metodos.deps.json
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\bin\Debug\net6.0\POO U3 4 metodos.runtimeconfig.json
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\bin\Debug\net6.0\POO U3 4 metodos.dll
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\bin\Debug\net6.0\POO U3 4 metodos.pdb
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\POO U3 4 metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\POO U3 4 metodos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\POO U3 4 metodos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\POO U3 4 metodos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\POO U3 4 metodos.dll
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\refint\POO U3 4 metodos.dll
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\POO U3 4 metodos.pdb
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\POO U3 4 metodos.genruntimeconfig.cache
+C:\Users\DELL\source\repos\POO U3 4 metodos\POO U3 4 metodos\obj\Debug\net6.0\ref\POO U3 4 metodos.dll
